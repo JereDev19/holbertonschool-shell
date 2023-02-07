@@ -1,2 +1,2 @@
-#!/vin/sh
+#!/bin/sh
 pwd

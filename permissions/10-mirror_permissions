@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod --reference=olleh hello
+#Olleh will had the some permission of hello
